@@ -1,10 +1,10 @@
 @font-face{
-  font-family: water;
+  font-family: times new roman;
   src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
 }
 
 body {
-  background-color: aliceblue;
+  background-color: red;
   text-align: center;
   color: navy;
   margin: auto;
@@ -16,10 +16,10 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://wildplanetfoods.com/cdn/shop/articles/fishcircle_2000x952_eab80516-815f-4ee8-87a2-5a071476868d_768x.webp?v=1653509195");
   background-size: 600px 400px;
-  border-radius: 300px;
-  border: 5px solid white;
+  border-radius: 450px;
+  border: 7px solid blue;
 }
 
 
